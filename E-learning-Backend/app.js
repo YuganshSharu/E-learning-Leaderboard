@@ -39,7 +39,7 @@ app.use(
   require(apiRoutesList.LEADERBOARD.directory)
 );
 // To make all rank in defalut incresing order
-rankDefaultValues();
+// rankDefaultValues();
 const port = process.env.PORT || 4000;
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
