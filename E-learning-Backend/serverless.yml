@@ -14,10 +14,3 @@ functions:
       - http: ANY /{proxy+}
       - http: ANY /
     environment:
-      JWT_SECRET: D1IZ0jLNpHCowR1SSWdewHBekcwiB5bHtel8tGTJsMscNFw7mlj9GfpKmSHSEbKjmD70A0kHNBJB2ReObBcqz6jeCAjVTFMZo0dd
-      MONGODB_URI: mongodb+srv://Pratyush:Pratyush%40123@cluster0.rkbiphw.mongodb.net/ELearning
-      CLIENT_URL: https://melodic-zuccutto-2b951c.netlify.app
-      ADMIN_EMAIL: kartikbagri111@gmail.com
-      CLIENT_ID: 848396448658-15elcagquce5j6ta4b7vq7u8nvj2tpp7.apps.googleusercontent.com
-      CLIENT_SECRET: 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
-      REFRESH_TOKEN: 1//045jN-TsNgWtgCgYIARAAGAQSNwF-L9IrVQ01qb4l6H_OkSdbVb7U-RBy4IQC3SdEWhYlqL1ZJlToyGQuvkEAaunayxWeBnttonQ
